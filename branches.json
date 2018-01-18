@@ -4,31 +4,37 @@
 	"branches": [{
 			"bid": "cfb001",
 			"bname": "14200 HWY 395",
+			"city" : "Adelanto",
 			"geo": "US-CA"
 		},
 		{
 			"bid": "cfb002",
 			"bname": "11879 ARTESIA BLVD",
+			"city": "Artesia",
 			"geo": "US-CA"
 		},
 		{
 			"bid": "cfb003",
 			"bname": "2518 WHITE LANE",
+			"city": "Bakersfield",
 			"geo": "US-CA"
 		},
 		{
 			"bid": "cfb004",
 			"bname": "2663 MT. VERNON AVE",
+			"city": "Bakersfield",
 			"geo": "US-CA"
 		},
 		{
 			"bid": "cfb005",
 			"bname": "4250 MING AVE",
+			"city": "Bakersfield",
 			"geo": "US-CA"
 		},
 		{
 			"bid": "cfb006",
 			"bname": "8270 ROSEDALE HWY",
+			"city": "Bakersfield",
 			"geo": "US-CA"
 		}
 	]
