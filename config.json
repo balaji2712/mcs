@@ -9,9 +9,9 @@
 				"bid":"b001"
 
 		},
-		"inittext":"\n\nText 1 for English 2 para Español. At any point of the conversation text ? for help and # to stop:\n",	
-		"branches":[{"bid":"b001", "bname":"ADELANTO"},
-		"shortUrlFinder":"http://localhost:5050/encode",	    
+		"inittext":"\n\nText 1 for English 2 para Español. At any point of the conversation text ? for help and # to stop:\n",
+		"shortUrlFinder":"http://localhost:5050/encode",
+		"branches":[{"bid":"b001", "bname":"ADELANTO"}, 
                 
 {"bid":"b002", "bname":"ALISO VIEJO"},
 {"bid":"b003", "bname":"N HARBOR BLVD, ANAHEIM"},
